@@ -2,8 +2,8 @@
 !--------------------------------------
 !Total lines: 859
 !Version: 1.6.8-release
-!Update time: 2025-08-19 14:09:45 UTC+8
-!Update content: 追加 tieba 追踪日志 by PΣΛᄃΣ
+!Update time: 2025-09-08 17:44:58 UTC+8
+!Update content: Update Geosite.py
 
 !Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 !License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -180,8 +180,8 @@
 ||analytics.woozooo.com^
 ||analyticsengine.s3.amazonaws.com^
 ||analyze.lemurbrowser.com^
-||android.bugly.qq.com^
 ||andrqd.play.aiseet.atianqi.com^
+||ap.dongdianqiu.com^
 ||ap.dongqiudi.com^
 ||apd-pcdnwxlogin.teg.tencent-cloud.net^
 ||apd-pcdnwxnat.teg.tencent-cloud.net^
