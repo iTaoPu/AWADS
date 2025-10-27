@@ -5,8 +5,9 @@
 ! Description: 极致的体积控制，超高的命中率，极低的硬件要求！
 ! ------------------------------------
 ! Version: 1.6.8-release
-! Update Date: 2025-10-10
-! Total lines: 860
+! Update Date: 2025-10-28
+! Total lines: 859
+
 
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
@@ -500,7 +501,6 @@
 ||m-adnet.hiaiabc.com^
 ||m.ad.zhangyue.com^
 ||m.atm.youku.com^
-||m.iqiyipic.com^
 ||m1.ad.10010.com^
 ||mapi.m.jd.com^
 ||masdkv6.3g.qq.com^
