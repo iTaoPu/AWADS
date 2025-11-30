@@ -1,3 +1,14 @@
+1rtb.com
+a.market.xiaomi.com
+ad.gameley.com
+adintl.cn
+adx.adwangmai.com
+data.hicloud.com
+log.aliyuncs.com
+ubixioe.com
+vlion.cn
+yfanads.com
+zhangyuyidong.cn
 full:1500020991.vodplayer.wxamedia.com
 full:1500022744.vodplayer.wxamedia.com
 full:1500026601.vodplayer.wxamedia.com
@@ -25,6 +36,7 @@ full:ad.partner.gifshow.com
 full:ad.qingting.fm
 full:ad.qq.com
 full:ad.richmob.cn
+full:ad.shunchangzhixing.com
 full:ad.tencentmusic.com
 full:ad.toutiao.com
 full:ad.v3mh.com
@@ -34,6 +46,7 @@ full:ad.zijieapi.com
 full:adapi.izuiyou.com
 full:adapi.yynetwk.com
 full:adashbc.ut.taobao.com
+full:adashx.m.taobao.com
 full:adc.hpplay.cn
 full:adcdn.hpplay.cn
 full:adcdn.tencentmusic.com
@@ -94,7 +107,6 @@ full:adse.ximalaya.com
 full:adsebs.ximalaya.com
 full:adsense.google.cn
 full:adserver.unityads.unity3d.com
-full:adservice.google.cn
 full:adservice.google.com
 full:adservice.sigmob.cn
 full:adserviceretry.kugou.com
@@ -129,12 +141,14 @@ full:advertising.yandex.ru
 full:advice-ads.s3.amazonaws.com
 full:adview.cn
 full:adx-ad.smart-tv.cn
+full:adx-api.jinmo.tech
 full:adx-bj-req.anythinktech.com
 full:adx-bj.anythinktech.com
 full:adx-cn.anythinktech.com
 full:adx-drcn.op.dbankcloud.cn
 full:adx-open-service.youku.com
 full:adx-os.anythinktech.com
+full:adx-saas.advlion.com
 full:adx.ads.heytapmobi.com
 full:adx.ads.oppomobile.com
 full:adx.appsdk.com.cn
@@ -169,8 +183,8 @@ full:analytics.tiktok.com
 full:analytics.woozooo.com
 full:analyticsengine.s3.amazonaws.com
 full:analyze.lemurbrowser.com
-full:android.bugly.qq.com
 full:andrqd.play.aiseet.atianqi.com
+full:ap.dongdianqiu.com
 full:ap.dongqiudi.com
 full:apd-pcdnwxlogin.teg.tencent-cloud.net
 full:apd-pcdnwxnat.teg.tencent-cloud.net
@@ -187,6 +201,7 @@ full:api-gd.hiaiabc.com
 full:api-htp.beizi.biz
 full:api.ad.xiaomi.com
 full:api.anythinktech.com
+full:api.aqyad.com
 full:api.e.kuaishou.com
 full:api.fu.xcultur.com
 full:api.htp.hubcloud.com.cn
@@ -194,6 +209,7 @@ full:api.hzsanjiaomao.com
 full:api.installer.xiaomi.com
 full:api.jietuhb.com
 full:api.kingdata.ksyun.com
+full:api.shanghailingye.cn
 full:api.ssp.xcultur.com
 full:api.statsig.com
 full:api.touch-moblie.com
@@ -207,6 +223,7 @@ full:applog.uc.cn
 full:applog.zijieapi.com
 full:applovin.com
 full:appversion.115.com
+full:aqyad.com
 full:aspect-upush.umeng.com
 full:auction.unityads.unity3d.com
 full:audid-api.taobao.com
@@ -230,14 +247,18 @@ full:bgg.baidu.com
 full:bianxian.com
 full:bingads.microsoft.com
 full:biz.weibo.com
+full:bj-td-menta-01-callback.advlion.com
 full:bj.ad.track.66mobi.com
 full:books-analytics-events.apple.com
 full:bootpreload.uve.weibo.com
+full:browser.events.data.msn.cn
+full:browser.events.data.msn.com
 full:browsercfg-drcn.cloud.dbankcloud.cn
 full:bsrv.qq.com
 full:bugly.qq.com
 full:business-api.tiktok.com
 full:c.bidtoolads.com
+full:c.etoolads.cn
 full:c.evidon.com
 full:c.gj.qq.com
 full:c.kuaiduizuoye.com
@@ -248,7 +269,6 @@ full:catalog.fjwhcbsh.com
 full:cbjs.baidu.com
 full:ccc-x.jd.com
 full:ccs.umeng.com
-full:cctv.adsunion.com
 full:cdn-ad.wtzw.com
 full:cdn-ads.oss-cn-shanghai.aliyuncs.com
 full:cdn-f.adsmoloco.com
@@ -262,7 +282,6 @@ full:cdn.ynuf.aliapp.org
 full:cfg.imtt.qq.com
 full:chat1.jd.com
 full:chiq-cloud.com
-full:cj.qidian.com
 full:ck.ads.oppomobile.com
 full:click.chinaliftoff.io
 full:click.googleanalytics.com
@@ -270,6 +289,7 @@ full:click.liftoff.io
 full:click.oneplus.cn
 full:click4.chinaliftoff.io
 full:clog.miguvideo.com
+full:cloooud.com
 full:cn-api.anythinktech.com
 full:cnlogs.umeng.com
 full:cnlogs.umengcloud.com
@@ -285,7 +305,6 @@ full:cpro.baidustatic.com
 full:crash2.zhihu.com
 full:crashlyticsreports-pa.googleapis.com
 full:csjplatform.com
-full:cws-cctv.conviva.com
 full:d.applovin.com
 full:d.applvn.com
 full:da.anythinktech.com
@@ -326,6 +345,7 @@ full:event.tradplusad.com
 full:events-drcn.op.dbankcloud.cn
 full:events.reddit.com
 full:events.redditmedia.com
+full:fancyapi.com
 full:fclog.baidu.com
 full:feed-image.baidu.com
 full:file.daihuo.qq.com
@@ -337,6 +357,7 @@ full:fxgate.baidu.com
 full:g-adnet.hiaiabc.com
 full:g-staic.ganjingworld.com
 full:g.dtv.cn.miaozhen.com
+full:g.fancyapi.com
 full:g2.ganjing.world
 full:game.loveota.com
 full:gdfp.gifshow.com
@@ -350,7 +371,6 @@ full:ggx03.miguvideo.com
 full:globalapi.ad.xiaomi.com
 full:google-analytics.com
 full:googleads.g.doubleclick-cn.net
-full:googleads.g.doubleclick.com
 full:googleads.g.doubleclick.net
 full:googleadservices-cn.com
 full:googleadservices.com
@@ -416,7 +436,6 @@ full:iot-eu-logser.realme.com
 full:iot-logser.realme.com
 full:ipv4.kkmh.com
 full:irc.qubiankeji.com
-full:itv2-up.openspeech.cn
 full:ixav-cse.avlyun.com
 full:iyfbodn.com
 full:janapi.jd.com
@@ -434,10 +453,12 @@ full:ks-p2p-v2.pull.yximgs.com
 full:ks-p2p.pull.yximgs.com
 full:ks.ferlytc.com
 full:ks.pull.yximgs.com
+full:l6.fancyapi.com
 full:launcher.smart-tv.cn
 full:launcherimg.smart-tv.cn
 full:lf3-ad-union-sdk.pglstatp-toutiao.com
 full:lf6-ad-union-sdk.pglstatp-toutiao.com
+full:lftxali.fancyapi.com
 full:lh3.googleadsserving.cn
 full:litchiads.com
 full:live-api.hktvmall.com
@@ -488,7 +509,6 @@ full:luimg.baidu.com
 full:m-adnet.hiaiabc.com
 full:m.ad.zhangyue.com
 full:m.atm.youku.com
-full:m.iqiyipic.com
 full:m1.ad.10010.com
 full:mapi.m.jd.com
 full:masdkv6.3g.qq.com
@@ -507,7 +527,6 @@ full:mini-prog-drm.vodplayvideo.net
 full:mission-pub.smart-tv.cn
 full:miui-fxcse.avlyun.com
 full:mlog.bigda.com
-full:mmgame.qpic.cn
 full:mnqlog.ldmnq.com
 full:moatads.com
 full:mobads-logs.baidu.com
@@ -519,6 +538,7 @@ full:mobilead.kuwo.cn
 full:mobilelog.upqzfile.com
 full:monitor-ads-test.huan.tv
 full:monitor-uu.play.aiseet.atianqi.com
+full:monitor.adxsenmeng.com
 full:monitor.music.qq.com
 full:monitor.uu.qq.com
 full:monsetting.toutiao.com
@@ -547,6 +567,7 @@ full:open.e.kuaishou.com
 full:open.kuaishouzt.com
 full:open.kwaizt.com
 full:open.snssdk.com
+full:openadapi.fancydsp.com
 full:optimus-ads.amap.com
 full:orbit.jd.com
 full:oss.cdn.aiclk.com
@@ -594,6 +615,7 @@ full:promotion-partner.kuaishou.com
 full:proxy.advp.apple.com
 full:public.gdtimg.com
 full:q.i.gdt.qq.com
+full:qmlog.baertt.com
 full:qn-cdnfile1pcdn.msstatic.com
 full:qqdata.ab.qq.com
 full:qzs.gdtimg.com
@@ -605,7 +627,6 @@ full:res1.hubcloud.com.cn
 full:res2.hubcloud.com.cn
 full:res3.hubcloud.com.cn
 full:resolve.umeng.com
-full:rev.aiclk.com
 full:review.gdtimg.com
 full:rlog.popin.cc
 full:rms-drcn.platform.dbankcloud.cn
@@ -615,14 +636,15 @@ full:rps.hpplay.cn
 full:rpt.gdt.qq.com
 full:rt.applovin.com
 full:rt.applvn.com
+full:rtb.adxsenmeng.com
 full:rtb.voiceads.cn
 full:s.amazon-adsystem.com
+full:s1.cdn-sg.advlion.com
 full:s8t.teads.tv
 full:saad.ms.zhangyue.net
 full:saas.hpplay.cn
 full:samsung-com.112.2o7.net
 full:samsungads.com
-full:sanme2.taisantech.com
 full:saxysec.com
 full:scs.openspeech.cn
 full:sdk-ab-config.qquanquan.com
@@ -630,12 +652,14 @@ full:sdk-cache.video.ptqy.gitv.tv
 full:sdk.1rtb.net
 full:sdk.ad.smaato.net
 full:sdk.adx.adwangmai.com
+full:sdk.aqyad.com
 full:sdk.beizi.biz
 full:sdk.cferw.com
 full:sdk.e.qq.com
 full:sdk.hzsanjiaomao.com
 full:sdk.markmedia.com.cn
 full:sdk.mobads.adwangmai.com
+full:sdkapi.cloooud.com
 full:sdkauth.hpplay.cn
 full:sdkconf.avlyun.com
 full:sdkconfig.ad.intl.xiaomi.com
@@ -658,23 +682,23 @@ full:service.vmos.cn
 full:sf16-static.i18n-pglstatp.com
 full:sf3-fe-tos.pglstatp-toutiao.com
 full:shouji.sogou.com
-full:sigmob.cn
 full:sigmob.com
 full:skdisplay.jd.com
 full:sl.hpplay.cn
 full:slb-p2p.vcloud.ks-live.com
 full:smad.ms.zhangyue.net
-full:smart-tv.cn
 full:smartad.10010.com
 full:smetrics.samsung.com
 full:sms.ads.oppomobile.com
 full:sngmta.qq.com
 full:snowflake.qq.com
+full:ssp.cloooud.com
 full:staging-notify.sec.miui.com
 full:stat.dongqiudi.com
 full:stat.y.qq.com
 full:static-s.iqiyi.com
 full:static.ads-twitter.com
+full:statichf.shihuocdn.cn
 full:statics.woozooo.com
 full:stats.wp.com
 full:statsigapi.net
@@ -694,10 +718,12 @@ full:t002.ottcn.com
 full:t1.a.market.xiaomi.com
 full:t1.teads.tv
 full:t2.a.market.xiaomi.com
+full:t2.fancyapi.com
 full:t3.a.market.xiaomi.com
 full:t7z.cupid.iqiyi.com
 full:t7z.cupid.ptqy.gitv.tv
 full:tangram.e.qq.com
+full:target.ads.jihuoniao.com
 full:tdc.qq.com
 full:tdsdk.cpatrk.net
 full:tdsdk.xdrig.com
@@ -722,6 +748,7 @@ full:tnc3-aliec1.toutiaoapi.com
 full:tnc3-aliec2.bytedance.com
 full:tnc3-aliec2.snssdk.com
 full:tnc3-aliec2.toutiaoapi.com
+full:tnc3-aliec2.zijieapi.com
 full:tnc3-alisc1.bytedance.com
 full:tnc3-alisc1.snssdk.com
 full:tnc3-alisc1.toutiaoapi.com
@@ -736,6 +763,7 @@ full:tpa-hcdn.iqiyi.com
 full:tpc.googlesyndication-cn.com
 full:tpc.googlesyndication.com
 full:tr-asia.adsmoloco.com
+full:trace.aqyad.com
 full:trace.qq.com
 full:tracelog-debug.aiclk.com
 full:tracelog-debug.qquanquan.com
@@ -775,6 +803,7 @@ full:upgrade-update.hismarttv.com
 full:uranus.jd.com
 full:us.l.qq.com
 full:usr-api.aiclk.com
+full:utoken.umeng.com
 full:v.110route.cn
 full:v.adintl.cn
 full:v.adx.hubcloud.com.cn
