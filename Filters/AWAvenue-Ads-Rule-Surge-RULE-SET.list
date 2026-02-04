@@ -1,9 +1,9 @@
 #Title: AWAvenue Ads Rule
 #--------------------------------------
-#Total lines: 903
+#Total lines: 910
 #Version: 1.6.9-release
-#Update time: 2025-12-05 09:34:56 UTC+8
-#Update content: fix AdguardTeam/FiltersRegistry/pull/1154
+#Update time: 2026-01-30 10:32:33 UTC+8
+#Update content: Add SmartDNS.py
 
 #Homepage: https://github.com/TG-Twilight/AWAvenue-Ads-Rule
 #License: https://github.com/TG-Twilight/AWAvenue-Ads-Rule/blob/main/LICENSE
@@ -44,6 +44,7 @@ DOMAIN,ad.shunchangzhixing.com
 DOMAIN,ad.tencentmusic.com
 DOMAIN,ad.toutiao.com
 DOMAIN,ad.v3mh.com
+DOMAIN,ad.weibo.com
 DOMAIN,ad.winrar.com.cn
 DOMAIN,ad.ximalaya.com
 DOMAIN,ad.xunkids.com
@@ -66,6 +67,7 @@ DOMAIN,adexp.liftoff.io
 DOMAIN,adexpo.tencentmusic.com
 DOMAIN,adfilter.imtt.qq.com
 DOMAIN,adguanggao.eee114.com
+DOMAIN,adimg.uve.weibo.com
 DOMAIN,adjust.cn
 DOMAIN,adjust.com
 DOMAIN,adks.hpplay.cn
@@ -83,6 +85,7 @@ DOMAIN,ads-sg.tiktok.com
 DOMAIN,ads-video-al.xhscdn.com
 DOMAIN,ads-video-qc.xhscdn.com
 DOMAIN,ads.95516.com
+DOMAIN,ads.auctions.yahoo.com
 DOMAIN,ads.cup.com.cn
 DOMAIN,ads.google.cn
 DOMAIN,ads.huan.tv
@@ -132,11 +135,14 @@ DOMAIN,adstat.izuiyou.com
 DOMAIN,adstats.tencentmusic.com
 DOMAIN,adstore-1252524079.file.myqcloud.com
 DOMAIN,adstore-index-1252524079.file.myqcloud.com
+DOMAIN,adstrategy.biz.weibo.com
 DOMAIN,adstudio-assets.scdn.co
 DOMAIN,adstudio.spotify.com
 DOMAIN,adtago.s3.amazonaws.com
 DOMAIN,adtech.yahooinc.com
 DOMAIN,adtrack.quark.cn
+DOMAIN,adtracker.medproad.com
+DOMAIN,adui.tg.meitu.com
 DOMAIN,adv-api.shenshiads.com
 DOMAIN,adv.sec.intl.miui.com
 DOMAIN,adv.sec.miui.com
@@ -157,6 +163,7 @@ DOMAIN,adx-drcn.op.dbankcloud.cn
 DOMAIN,adx-open-service.youku.com
 DOMAIN,adx-os.anythinktech.com
 DOMAIN,adx-saas.advlion.com
+DOMAIN,adx-strategy-api-cn.statisticslinks.com
 DOMAIN,adx.ads.heytapmobi.com
 DOMAIN,adx.ads.oppomobile.com
 DOMAIN,adx.appsdk.com.cn
@@ -234,7 +241,6 @@ DOMAIN,applog.lc.quark.cn
 DOMAIN,applog.uc.cn
 DOMAIN,applog.zijieapi.com
 DOMAIN,applovin.com
-DOMAIN,appversion.115.com
 DOMAIN,aqyad.com
 DOMAIN,aspect-upush.umeng.com
 DOMAIN,auction.unityads.unity3d.com
@@ -267,7 +273,6 @@ DOMAIN,browser.events.data.msn.cn
 DOMAIN,browser.events.data.msn.com
 DOMAIN,browsercfg-drcn.cloud.dbankcloud.cn
 DOMAIN,bsrv.qq.com
-DOMAIN,bugly.qq.com
 DOMAIN,business-api.tiktok.com
 DOMAIN,c.bidtoolads.com
 DOMAIN,c.etoolads.cn
@@ -331,7 +336,6 @@ DOMAIN,dc.sigmob.cn
 DOMAIN,de.tynt.com
 DOMAIN,diagnosis.ad.xiaomi.com
 DOMAIN,dig.bdurl.net
-DOMAIN,dl.zuimeitianqi.com
 DOMAIN,dlogs.bwton.com
 DOMAIN,dm.toutiao.com
 DOMAIN,domain.aishengji.com
@@ -351,8 +355,6 @@ DOMAIN,edge.ads.twitch.tv
 DOMAIN,ef-dongfeng.tanx.com
 DOMAIN,engine.dcad01.com
 DOMAIN,entry.baidu.com
-DOMAIN,errlog.umeng.com
-DOMAIN,errnewlog.umeng.com
 DOMAIN,et-eus.w.inmobi.com
 DOMAIN,event.tradplusad.com
 DOMAIN,events-drcn.op.dbankcloud.cn
@@ -376,7 +378,6 @@ DOMAIN,gdfp.gifshow.com
 DOMAIN,gemini.yahoo.com
 DOMAIN,geo.yahoo.com
 DOMAIN,getui.cn
-DOMAIN,getui.com
 DOMAIN,ggx.cmvideo.cn
 DOMAIN,ggx01.miguvideo.com
 DOMAIN,ggx03.miguvideo.com
@@ -532,6 +533,7 @@ DOMAIN,masdkv6.3g.qq.com
 DOMAIN,mazu.m.qq.com
 DOMAIN,mbdlog.iqiyi.com
 DOMAIN,mcs.zijieapi.com
+DOMAIN,medproad.com
 DOMAIN,metrics.data.hicloud.com
 DOMAIN,metrics.icloud.com
 DOMAIN,metrics.mzstatic.com
@@ -560,6 +562,7 @@ DOMAIN,monitor.adxsenmeng.com
 DOMAIN,monitor.music.qq.com
 DOMAIN,monitor.uu.qq.com
 DOMAIN,monsetting.toutiao.com
+DOMAIN,mores.toponad.com
 DOMAIN,ms.applovin.com
 DOMAIN,ms.applvn.com
 DOMAIN,ms4.applovin.com
@@ -635,6 +638,7 @@ DOMAIN,promotion-partner.kuaishou.com
 DOMAIN,proxy.advp.apple.com
 DOMAIN,public.gdtimg.com
 DOMAIN,q.i.gdt.qq.com
+DOMAIN,qcwx.medproad.com
 DOMAIN,qmlog.baertt.com
 DOMAIN,qn-cdnfile1pcdn.msstatic.com
 DOMAIN,qqdata.ab.qq.com
@@ -663,7 +667,6 @@ DOMAIN,s1.cdn-sg.advlion.com
 DOMAIN,s8t.teads.tv
 DOMAIN,saad.ms.zhangyue.net
 DOMAIN,saas.hpplay.cn
-DOMAIN,safebrowsing.googleapis.com
 DOMAIN,safebrowsing.urlsec.gg.com
 DOMAIN,samsung-com.112.2o7.net
 DOMAIN,samsungads.com
@@ -682,6 +685,7 @@ DOMAIN,sdk.hzsanjiaomao.com
 DOMAIN,sdk.markmedia.com.cn
 DOMAIN,sdk.mobads.adwangmai.com
 DOMAIN,sdkapi.cloooud.com
+DOMAIN,sdkapp.uve.weibo.com
 DOMAIN,sdkauth.hpplay.cn
 DOMAIN,sdkconf.avlyun.com
 DOMAIN,sdkconfig.ad.intl.xiaomi.com
@@ -731,7 +735,9 @@ DOMAIN,success.ctobsnssdk.com
 DOMAIN,supply.inmobicdn.net
 DOMAIN,sv-video.play.aiseet.atianqi.com
 DOMAIN,syh-imp.cdnjtzy.com
+DOMAIN,syh.zybang.com
 DOMAIN,szbdyd.com
+DOMAIN,t-adx.52qumao.com
 DOMAIN,t-dsp.pinduoduo.com
 DOMAIN,t.applovin.com
 DOMAIN,t.l.qq.com
@@ -743,8 +749,8 @@ DOMAIN,t1.teads.tv
 DOMAIN,t2.a.market.xiaomi.com
 DOMAIN,t2.fancyapi.com
 DOMAIN,t3.a.market.xiaomi.com
-DOMAIN,t7z.cupid.iqiyi.com
 DOMAIN,t7z.cupid.ptqy.gitv.tv
+DOMAIN,tagtic.cn
 DOMAIN,tangram.e.qq.com
 DOMAIN,target.ads.jihuoniao.com
 DOMAIN,tdc.qq.com
@@ -797,6 +803,7 @@ DOMAIN,tracker.ai.xiaomi.com
 DOMAIN,tracker.gitee.com
 DOMAIN,tracking.miui.com
 DOMAIN,tracking.rus.miui.com
+DOMAIN,tuiguang.meitu.com
 DOMAIN,tvapp.hpplay.cn
 DOMAIN,tvuser-ch.cedock.com
 DOMAIN,tx-ad.a.yximgs.com

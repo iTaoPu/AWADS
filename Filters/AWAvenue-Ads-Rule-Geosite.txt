@@ -44,6 +44,7 @@ full:ad.shunchangzhixing.com
 full:ad.tencentmusic.com
 full:ad.toutiao.com
 full:ad.v3mh.com
+full:ad.weibo.com
 full:ad.winrar.com.cn
 full:ad.ximalaya.com
 full:ad.xunkids.com
@@ -66,6 +67,7 @@ full:adexp.liftoff.io
 full:adexpo.tencentmusic.com
 full:adfilter.imtt.qq.com
 full:adguanggao.eee114.com
+full:adimg.uve.weibo.com
 full:adjust.cn
 full:adjust.com
 full:adks.hpplay.cn
@@ -83,6 +85,7 @@ full:ads-sg.tiktok.com
 full:ads-video-al.xhscdn.com
 full:ads-video-qc.xhscdn.com
 full:ads.95516.com
+full:ads.auctions.yahoo.com
 full:ads.cup.com.cn
 full:ads.google.cn
 full:ads.huan.tv
@@ -132,11 +135,14 @@ full:adstat.izuiyou.com
 full:adstats.tencentmusic.com
 full:adstore-1252524079.file.myqcloud.com
 full:adstore-index-1252524079.file.myqcloud.com
+full:adstrategy.biz.weibo.com
 full:adstudio-assets.scdn.co
 full:adstudio.spotify.com
 full:adtago.s3.amazonaws.com
 full:adtech.yahooinc.com
 full:adtrack.quark.cn
+full:adtracker.medproad.com
+full:adui.tg.meitu.com
 full:adv-api.shenshiads.com
 full:adv.sec.intl.miui.com
 full:adv.sec.miui.com
@@ -157,6 +163,7 @@ full:adx-drcn.op.dbankcloud.cn
 full:adx-open-service.youku.com
 full:adx-os.anythinktech.com
 full:adx-saas.advlion.com
+full:adx-strategy-api-cn.statisticslinks.com
 full:adx.ads.heytapmobi.com
 full:adx.ads.oppomobile.com
 full:adx.appsdk.com.cn
@@ -234,7 +241,6 @@ full:applog.lc.quark.cn
 full:applog.uc.cn
 full:applog.zijieapi.com
 full:applovin.com
-full:appversion.115.com
 full:aqyad.com
 full:aspect-upush.umeng.com
 full:auction.unityads.unity3d.com
@@ -267,7 +273,6 @@ full:browser.events.data.msn.cn
 full:browser.events.data.msn.com
 full:browsercfg-drcn.cloud.dbankcloud.cn
 full:bsrv.qq.com
-full:bugly.qq.com
 full:business-api.tiktok.com
 full:c.bidtoolads.com
 full:c.etoolads.cn
@@ -331,7 +336,6 @@ full:dc.sigmob.cn
 full:de.tynt.com
 full:diagnosis.ad.xiaomi.com
 full:dig.bdurl.net
-full:dl.zuimeitianqi.com
 full:dlogs.bwton.com
 full:dm.toutiao.com
 full:domain.aishengji.com
@@ -351,8 +355,6 @@ full:edge.ads.twitch.tv
 full:ef-dongfeng.tanx.com
 full:engine.dcad01.com
 full:entry.baidu.com
-full:errlog.umeng.com
-full:errnewlog.umeng.com
 full:et-eus.w.inmobi.com
 full:event.tradplusad.com
 full:events-drcn.op.dbankcloud.cn
@@ -376,7 +378,6 @@ full:gdfp.gifshow.com
 full:gemini.yahoo.com
 full:geo.yahoo.com
 full:getui.cn
-full:getui.com
 full:ggx.cmvideo.cn
 full:ggx01.miguvideo.com
 full:ggx03.miguvideo.com
@@ -532,6 +533,7 @@ full:masdkv6.3g.qq.com
 full:mazu.m.qq.com
 full:mbdlog.iqiyi.com
 full:mcs.zijieapi.com
+full:medproad.com
 full:metrics.data.hicloud.com
 full:metrics.icloud.com
 full:metrics.mzstatic.com
@@ -560,6 +562,7 @@ full:monitor.adxsenmeng.com
 full:monitor.music.qq.com
 full:monitor.uu.qq.com
 full:monsetting.toutiao.com
+full:mores.toponad.com
 full:ms.applovin.com
 full:ms.applvn.com
 full:ms4.applovin.com
@@ -635,6 +638,7 @@ full:promotion-partner.kuaishou.com
 full:proxy.advp.apple.com
 full:public.gdtimg.com
 full:q.i.gdt.qq.com
+full:qcwx.medproad.com
 full:qmlog.baertt.com
 full:qn-cdnfile1pcdn.msstatic.com
 full:qqdata.ab.qq.com
@@ -663,7 +667,6 @@ full:s1.cdn-sg.advlion.com
 full:s8t.teads.tv
 full:saad.ms.zhangyue.net
 full:saas.hpplay.cn
-full:safebrowsing.googleapis.com
 full:safebrowsing.urlsec.gg.com
 full:samsung-com.112.2o7.net
 full:samsungads.com
@@ -682,6 +685,7 @@ full:sdk.hzsanjiaomao.com
 full:sdk.markmedia.com.cn
 full:sdk.mobads.adwangmai.com
 full:sdkapi.cloooud.com
+full:sdkapp.uve.weibo.com
 full:sdkauth.hpplay.cn
 full:sdkconf.avlyun.com
 full:sdkconfig.ad.intl.xiaomi.com
@@ -731,7 +735,9 @@ full:success.ctobsnssdk.com
 full:supply.inmobicdn.net
 full:sv-video.play.aiseet.atianqi.com
 full:syh-imp.cdnjtzy.com
+full:syh.zybang.com
 full:szbdyd.com
+full:t-adx.52qumao.com
 full:t-dsp.pinduoduo.com
 full:t.applovin.com
 full:t.l.qq.com
@@ -743,8 +749,8 @@ full:t1.teads.tv
 full:t2.a.market.xiaomi.com
 full:t2.fancyapi.com
 full:t3.a.market.xiaomi.com
-full:t7z.cupid.iqiyi.com
 full:t7z.cupid.ptqy.gitv.tv
+full:tagtic.cn
 full:tangram.e.qq.com
 full:target.ads.jihuoniao.com
 full:tdc.qq.com
@@ -797,6 +803,7 @@ full:tracker.ai.xiaomi.com
 full:tracker.gitee.com
 full:tracking.miui.com
 full:tracking.rus.miui.com
+full:tuiguang.meitu.com
 full:tvapp.hpplay.cn
 full:tvuser-ch.cedock.com
 full:tx-ad.a.yximgs.com
